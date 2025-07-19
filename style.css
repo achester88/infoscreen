@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'JetBrainsMonoNerdFont';
+    src: url('./JetBrainsMonoNerdFont.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+  font-family: 'JetBrainsMonoNerdFont';
+  color: #F0F0F0;
+  background-color: #050505;
+}
